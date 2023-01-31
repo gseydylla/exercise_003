@@ -1,0 +1,28 @@
+.header{
+    height: 40px;
+}
+
+.bg-pink{
+    background-color: rgb(243, 212, 217);
+}
+
+.box-1{
+    height: 600px;
+}
+
+.pt-10{
+    padding-top: 160px;
+}
+
+.mt-6{
+    margin-top: 70px;
+}
+
+.box-all-1{
+    box-shadow: 10px 10px 10px gray;
+    transition: 1s;
+}
+
+.box-all-1:hover{
+    box-shadow: 5px 5px 50px gray;
+}
